@@ -19,3 +19,59 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/*.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px;
+  background-color: transparent;
+}
+
+.header__logo img {
+  width: 100px; 
+  height: auto;
+}
+
+.header__button button {
+  background-color: #e50914;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.header__button button:hover {
+  background-color: #B00810;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+
+.home-header{
+  margin-bottom: 20px;
+}
+
+.home-header h1 {
+  font-size: 2.5rem;
+  font-weight: 75400;
+}
+
+.form-container {
+  width: 100%;
+  max-width: 600px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}*/
+
